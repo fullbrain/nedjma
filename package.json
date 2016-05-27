@@ -1,0 +1,21 @@
+{
+  "name": "nedjma",
+  "version": "1.0.0",
+  "description": "un bot pour tout les services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/fullbrain/nedjma"
+  },
+  "author": "Midou Filali midoufilali@gmail.com",
+  "license": "MIT ",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
